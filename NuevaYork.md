@@ -5,3 +5,6 @@ Nueva York es un destino vibrante que ofrece contrastes inigualables, desde rasc
 
 ## Recomendacion
 Se recomienda planificar al menos 7 días, gestionar la autorización ESTA con antelación, usar el metro para moverse y visitar atracciones como Times Square y el Puente de Brooklyn.
+
+## Imagen
+![alt text](imageNY.png)
