@@ -5,3 +5,6 @@ Londres, capital del Reino Unido e Inglaterra, es una metrópoli global ubicada 
 
 ## Recomendacion
  Se requiere pasaporte en vigor, y a partir de 2025, el permiso ETA es obligatorio. 
+
+## Imagen
+![alt text](imageLND.png) 
