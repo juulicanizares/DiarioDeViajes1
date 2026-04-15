@@ -8,3 +8,9 @@ Se recomienda visitarla al menos 3-4 días, usando el metro para moverse, reserv
 
 ## Imagen 
 ![alt text](ImageParis.png)
+
+## Informacion
+- Ubicación: Norte de Francia, región de Île-de-France, atravesada por el río Sena.
+- Población: Aproximadamente 2 millones en la ciudad (intramuros) y más de 11-13 millones en el área metropolitana.
+- Clima: Templado, con inviernos moderados (aprox. 8°C de máxima) y veranos cálidos (aprox. 25°C).
+- Estructura: La ciudad se divide en 20 distritos (arrondissements) y se organiza en la orilla derecha (Rive Droite - norte) y la orilla izquierda (Rive Gauche - sur) del Sena.
