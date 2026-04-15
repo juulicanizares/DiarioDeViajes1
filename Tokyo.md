@@ -5,3 +5,6 @@ Tokio, la metrópoli más poblada del mundo, es una fascinante mezcla de tradici
 
 ## Recomendacion
 Se recomiendan entre 3 y 5 días para explorar, idealmente usando el metro, y reservando alojamiento con antelación para asegurar buenos precios.
+
+## Imagen
+![alt text](imageTokyo.png)
